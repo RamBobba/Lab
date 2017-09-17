@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 branching
+=======
+New file created
+second line added
+>>>>>>> 9c16f521790303714b1a571b3174593b3a4b7e1b
