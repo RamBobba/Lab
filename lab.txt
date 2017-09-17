@@ -1,2 +1,2 @@
 This is my first lab
-New line added
+updated second line
